@@ -44,20 +44,20 @@ That's pretty much been the whole story so far. Something catches my attention, 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=github_dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=default&hide_border=true&background=00000000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=default&hide_border=true&background=00000000" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mian-mohid&theme=github_dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mian-mohid&theme=default&hide_border=true&background=00000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mian-mohid&theme=default&hide_border=true&background=00000000" height="160" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000">
-    <img src="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000">
+    <img src="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" height="160" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=default&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=default&hide_border=true&bg_color=00000000" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mian-mohid&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mian-mohid&theme=default&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mian-mohid&theme=default&hide_border=true&bg_color=00000000" width="100%" />
   </picture>
 
 </div>
@@ -68,7 +68,7 @@ That's pretty much been the whole story so far. Something catches my attention, 
 
 <div align="center">
   <a href="https://linkedin.com/in/mian-mohid-naeem"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:business@nexcodes.me"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:business@mian-mohid.me"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
 
 <br/>
