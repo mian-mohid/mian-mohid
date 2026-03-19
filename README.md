@@ -49,9 +49,9 @@ That's pretty much been the whole story so far. Something catches my attention, 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mian-mohid&theme=default&hide_border=true&background=00000000" height="160" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-repository-contribution-stat-ashy.vercel.app/api?username=mian-mohid&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-repository-contribution-stat-ashy.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000">
+    <img src="https://github-repository-contribution-stat-ashy.vercel.app/api?username=mian-mohid&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" height="160" />
   </picture>
   <br/>
   <picture>
